@@ -9,3 +9,7 @@ This C# console application generates a specified number of random strings, each
 3. Build and run the `random-letters` project.
 4. Follow the prompts to specify the number of words and number of letters per word.
 5. Observe the randomly generated strings in the console.
+
+## License
+
+This project is released under the [Unlicense](UNLICENSE). You can use, copy, modify, and distribute this project for any purpose without any restrictions or conditions.
